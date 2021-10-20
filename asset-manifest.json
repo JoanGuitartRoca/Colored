@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/Colored/static/css/main.cfd60e37.chunk.css",
-    "main.js": "/Colored/static/js/main.3144783a.chunk.js",
-    "main.js.map": "/Colored/static/js/main.3144783a.chunk.js.map",
+    "main.css": "/Colored/static/css/main.936e497b.chunk.css",
+    "main.js": "/Colored/static/js/main.44fae7cd.chunk.js",
+    "main.js.map": "/Colored/static/js/main.44fae7cd.chunk.js.map",
     "runtime-main.js": "/Colored/static/js/runtime-main.24a885c6.js",
     "runtime-main.js.map": "/Colored/static/js/runtime-main.24a885c6.js.map",
     "static/js/2.ef8245e8.chunk.js": "/Colored/static/js/2.ef8245e8.chunk.js",
     "static/js/2.ef8245e8.chunk.js.map": "/Colored/static/js/2.ef8245e8.chunk.js.map",
     "index.html": "/Colored/index.html",
-    "static/css/main.cfd60e37.chunk.css.map": "/Colored/static/css/main.cfd60e37.chunk.css.map",
+    "static/css/main.936e497b.chunk.css.map": "/Colored/static/css/main.936e497b.chunk.css.map",
     "static/js/2.ef8245e8.chunk.js.LICENSE.txt": "/Colored/static/js/2.ef8245e8.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.24a885c6.js",
     "static/js/2.ef8245e8.chunk.js",
-    "static/css/main.cfd60e37.chunk.css",
-    "static/js/main.3144783a.chunk.js"
+    "static/css/main.936e497b.chunk.css",
+    "static/js/main.44fae7cd.chunk.js"
   ]
 }
